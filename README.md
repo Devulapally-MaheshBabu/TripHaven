@@ -18,7 +18,7 @@ Travelo is a travel platform inspired by Airbnb. It allows users to explore, lis
 ## Installation
 1. Clone the repository:
    ```sh
-   git clone https://github.com/charangoud2004/travello-travel-platform.git
+   git clone https://github.com/Devulapally-MaheshBabu/travello-travel-platform.git
    cd travello-travel-platform
    ```
 2. Install dependencies:
@@ -39,7 +39,7 @@ Ensure the following for deployment on **Render**:
 - Add necessary environment variables in Render settings
 
 ## Live Demo
-Check out the live demo: [Travelo on Render](https://travello-42cb.onrender.com/listings)
+Check out the live demo: [Travello on Render](https://travello-42cb.onrender.com/listings)
 
 ## Contributing
 1. Fork the repository
