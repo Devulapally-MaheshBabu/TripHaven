@@ -11,9 +11,9 @@ Travelo is a travel platform inspired by Airbnb. It allows users to explore, lis
 - Responsive design
 
 ## Tech Stack
-- **Backend :** JavaScript, Node.js, Express.js, MongoDB
-- **Frontend :**  EJS, CSS, HTML
-- **Deployment :** Render
+- **Backend:** JavaScript, Node.js, Express.js, MongoDB
+- **Frontend:**  EJS, CSS, HTML
+- **Deployment:** Render
 
 ## Installation
 1. Clone the repository:
