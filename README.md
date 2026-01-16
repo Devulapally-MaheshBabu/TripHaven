@@ -43,6 +43,6 @@ Check out the live demo: [Travello on Render](https://travello-42cb.onrender.com
 
 ## Contributing
 1. Fork the repository
-2. Create a new branch (`feature-branch`)
+2. Create a new branch 
 3. Commit your changes
 4. Open a pull request
