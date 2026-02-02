@@ -4,7 +4,7 @@
 Travelo is a travel platform inspired by Airbnb. It allows users to explore, list, and book travel accommodations seamlessly.
 
 ## Features
-- User authentication (signup/login)
+- User authentication
 - Create, edit, and delete travel listings
 - User reviews and ratings
 - Image uploads for listings
