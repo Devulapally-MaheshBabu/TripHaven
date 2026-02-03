@@ -33,7 +33,7 @@ Travelo is a travel platform inspired by Airbnb. It allows users to explore, lis
    ```
 
 ## Deployment
-Ensure the following for deployment on **Render**:
+Ensure the following for deployment on **Render** :
 - Set the **Publish Directory** to `public/`
 - Ensure `app.js` is set as the entry point
 - Add necessary environment variables in Render settings
