@@ -16,16 +16,16 @@ Travelo is a travel platform inspired by Airbnb. It allows users to explore, lis
 - **Deployment:** Render
 
 ## Installation
-1. Clone the repository :
+1. Clone the repository:
    ```sh
    git clone https://github.com/Devulapally-MaheshBabu/travello-travel-platform.git
    cd travello-travel-platform
    ```
-2. Install dependencies :
+2. Install dependencies:
    ```sh
    npm install
    ```
-3. Set up environment variables :
+3. Set up environment variables:
    - Create a `.env` file and add necessary credentials
 4. Start the server :
    ```sh
@@ -33,7 +33,7 @@ Travelo is a travel platform inspired by Airbnb. It allows users to explore, lis
    ```
 
 ## Deployment
-Ensure the following for deployment on **Render** :
+Ensure the following for deployment on **Render**:
 - Set the **Publish Directory** to `public/`
 - Ensure `app.js` is set as the entry point
 - Add necessary environment variables in Render settings
